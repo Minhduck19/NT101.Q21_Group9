@@ -1,0 +1,11 @@
+D:\An toan mang\thuchanh\2.6\2.6\bin\Debug\2.6.exe.config
+D:\An toan mang\thuchanh\2.6\2.6\bin\Debug\2.6.exe
+D:\An toan mang\thuchanh\2.6\2.6\bin\Debug\2.6.pdb
+D:\An toan mang\thuchanh\2.6\2.6\obj\Debug\2.6.csproj.AssemblyReference.cache
+D:\An toan mang\thuchanh\2.6\2.6\obj\Debug\_2._6.Form1.resources
+D:\An toan mang\thuchanh\2.6\2.6\obj\Debug\_2._6.Properties.Resources.resources
+D:\An toan mang\thuchanh\2.6\2.6\obj\Debug\2.6.csproj.GenerateResource.cache
+D:\An toan mang\thuchanh\2.6\2.6\obj\Debug\2.6.csproj.CoreCompileInputs.cache
+D:\An toan mang\thuchanh\2.6\2.6\obj\Debug\2.6.exe
+D:\An toan mang\thuchanh\2.6\2.6\obj\Debug\2.6.pdb
+D:\An toan mang\thuchanh\2.6\2.6\obj\Debug\2.6.exe.config
