@@ -16,7 +16,6 @@ namespace _2._3
             string upper = input.ToUpper();
             return Regex.Replace(upper, "[^A-Z]", "");
         }
-
         public static string Decrypt(string ciphertext, string key)
         {
             StringBuilder plaintext = new StringBuilder(ciphertext.Length);
@@ -28,7 +27,7 @@ namespace _2._3
                     bool isLower = char.IsLower(c);
                     char upperC = char.ToUpper(c);
 
-                    // Tìm ký tự trong Key, ánh xạ ngược về chữ gốc
+                    //tìm ký tự trong Key, dịch về chữ gốc
                     int index = key.IndexOf(upperC);
 
                     if (index != -1)
@@ -44,7 +43,7 @@ namespace _2._3
                 }
                 else
                 {
-                    plaintext.Append(c); // Giữ nguyên dấu câu, khoảng trắng
+                    plaintext.Append(c);//giữ nguyên dấu câu, cách
                 }
             }
             return plaintext.ToString();

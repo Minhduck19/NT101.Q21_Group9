@@ -77,7 +77,7 @@ namespace _2._3
             {
                 var solver = new HillClimbingSolver(scorer);
 
-                // 4. BẮT ĐẦU CHẠY THUẬT TOÁN Ở LUỒNG NGẦM (BACKGROUND THREAD)
+                //BẮT ĐẦU CHẠY THUẬT TOÁN Ở LUỒNG NGẦM 
                 var result = await Task.Run(() =>
                     solver.Solve(ciphertext, restarts, progress, cts.Token)
                 );
@@ -95,7 +95,7 @@ namespace _2._3
             }
             finally
             {
-                // 5. Khôi phục lại trạng thái các nút bấm sau khi chạy xong hoặc bị dừng
+                //Khôi phục lại trạng thái các nút bấm sau khi chạy xong hoặc bị dừng
                 start.Enabled = true;
                 stop.Enabled = false;
                 cts.Dispose();

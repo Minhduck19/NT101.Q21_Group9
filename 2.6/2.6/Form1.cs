@@ -27,11 +27,11 @@ namespace _2._6
 
             Vigenere breaker = new Vigenere();
 
-            // 1. Phá mã để tìm khóa
+            //Phá mã để tìm khóa
             string foundKey = breaker.BreakVigenere(cipher.Text);
             Key.Text = foundKey;
 
-            // 2. Dùng khóa vừa tìm được để giải mã toàn bộ văn bản (giữ nguyên định dạng)
+            //Dùng khóa vừa tìm được để giải mã toàn bộ văn bản (giữ nguyên định dạng)
             string decodedText = breaker.Decrypt(cipher.Text, foundKey);
             plain.Text = decodedText;
         }

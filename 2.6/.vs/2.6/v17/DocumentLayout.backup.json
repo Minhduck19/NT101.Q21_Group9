@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\An toan mang\\thuchanh\\2.6\\",
+  "WorkspaceRootPath": "D:\\An toan mang\\thuchanh\\NT101.Q21_Group9\\NT101.Q21_Group9\\2.6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{481E040C-378A-4B5A-8B96-F9E91BE5FAC6}|2.6\\2.6.csproj|D:\\An toan mang\\thuchanh\\2.6\\2.6\\vigenere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{481E040C-378A-4B5A-8B96-F9E91BE5FAC6}|2.6\\2.6.csproj|d:\\an toan mang\\thuchanh\\nt101.q21_group9\\nt101.q21_group9\\2.6\\2.6\\vigenere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{481E040C-378A-4B5A-8B96-F9E91BE5FAC6}|2.6\\2.6.csproj|solutionrelative:2.6\\vigenere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{481E040C-378A-4B5A-8B96-F9E91BE5FAC6}|2.6\\2.6.csproj|d:\\an toan mang\\thuchanh\\2.6\\2.6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{481E040C-378A-4B5A-8B96-F9E91BE5FAC6}|2.6\\2.6.csproj|D:\\An toan mang\\thuchanh\\NT101.Q21_Group9\\NT101.Q21_Group9\\2.6\\2.6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{481E040C-378A-4B5A-8B96-F9E91BE5FAC6}|2.6\\2.6.csproj|solutionrelative:2.6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{481E040C-378A-4B5A-8B96-F9E91BE5FAC6}|2.6\\2.6.csproj|D:\\An toan mang\\thuchanh\\2.6\\2.6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{481E040C-378A-4B5A-8B96-F9E91BE5FAC6}|2.6\\2.6.csproj|D:\\An toan mang\\thuchanh\\NT101.Q21_Group9\\NT101.Q21_Group9\\2.6\\2.6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{481E040C-378A-4B5A-8B96-F9E91BE5FAC6}|2.6\\2.6.csproj|solutionrelative:2.6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Vigenere.cs",
-              "DocumentMoniker": "D:\\An toan mang\\thuchanh\\2.6\\2.6\\Vigenere.cs",
+              "DocumentMoniker": "D:\\An toan mang\\thuchanh\\NT101.Q21_Group9\\NT101.Q21_Group9\\2.6\\2.6\\Vigenere.cs",
               "RelativeDocumentMoniker": "2.6\\Vigenere.cs",
-              "ToolTip": "D:\\An toan mang\\thuchanh\\2.6\\2.6\\Vigenere.cs",
+              "ToolTip": "D:\\An toan mang\\thuchanh\\NT101.Q21_Group9\\NT101.Q21_Group9\\2.6\\2.6\\Vigenere.cs",
               "RelativeToolTip": "2.6\\Vigenere.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAJYAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAowCcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T07:02:51.982Z",
               "EditorCaption": ""
@@ -45,11 +45,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\An toan mang\\thuchanh\\2.6\\2.6\\Form1.cs",
+              "DocumentMoniker": "D:\\An toan mang\\thuchanh\\NT101.Q21_Group9\\NT101.Q21_Group9\\2.6\\2.6\\Form1.cs",
               "RelativeDocumentMoniker": "2.6\\Form1.cs",
-              "ToolTip": "D:\\An toan mang\\thuchanh\\2.6\\2.6\\Form1.cs",
+              "ToolTip": "D:\\An toan mang\\thuchanh\\NT101.Q21_Group9\\NT101.Q21_Group9\\2.6\\2.6\\Form1.cs",
               "RelativeToolTip": "2.6\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T07:02:00.322Z",
               "EditorCaption": ""
@@ -58,9 +58,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\An toan mang\\thuchanh\\2.6\\2.6\\Form1.cs",
+              "DocumentMoniker": "D:\\An toan mang\\thuchanh\\NT101.Q21_Group9\\NT101.Q21_Group9\\2.6\\2.6\\Form1.cs",
               "RelativeDocumentMoniker": "2.6\\Form1.cs",
-              "ToolTip": "D:\\An toan mang\\thuchanh\\2.6\\2.6\\Form1.cs [Design]",
+              "ToolTip": "D:\\An toan mang\\thuchanh\\NT101.Q21_Group9\\NT101.Q21_Group9\\2.6\\2.6\\Form1.cs [Design]",
               "RelativeToolTip": "2.6\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T19:11:42.345Z",

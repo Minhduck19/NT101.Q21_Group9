@@ -11,7 +11,7 @@ namespace _2._3
     {
         private Dictionary<string, double> ngrams = new Dictionary<string, double>();
         private double floorValue = 0;
-        private int ngramLength = 4; // Mặc định dùng Quadgram
+        private int ngramLength = 4;
 
         // Đọc file n-gram và tính toán log xác suất
         public void LoadNgrams(string filePath)

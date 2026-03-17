@@ -77,7 +77,7 @@ namespace _2._3
             return (globalBestKey, finalPlaintext, globalBestScore);
         }
 
-        // Hàm hỗ trợ xáo trộn chuỗi
+        //Hàm xáo trộn chuỗi
         private string ShuffleString(string str)
         {
             char[] array = str.ToCharArray();
