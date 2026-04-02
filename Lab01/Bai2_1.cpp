@@ -31,7 +31,8 @@ int main(){
 
     cout << "Vui long chon:" << endl;
     cout << "1. Ma hoa Ceasar" << endl;
-    cout << "2. Giai ma Ceasar" << endl;
+    cout << "2. Giai ma Ceasar (Biet khoa)" << endl;
+    cout << "3. Giai ma Ceasar (Khong biet khoa)" << endl;
 
     int choice;
     cin >> choice;
@@ -61,8 +62,33 @@ int main(){
 
         cout << "Ban ma: " << CeasarCipherText << endl;
     }
-
     else if (choice == 2){
+
+        cout << "Nhap ban ma: ";
+        cin.ignore();
+        getline(cin, CeasarCipherText);
+
+        cout << "Nhap khoa: ";
+        cin >> CeasarKey;
+
+        string CeasarPlainText="";
+
+        for (int i = 0; i < CeasarCipherText.length(); i++){
+            if (CeasarCipherText[i] >= 'a' && CeasarCipherText[i] <= 'z'){
+                CeasarPlainText += (CeasarCipherText[i] - 'a' - CeasarKey + 26) % 26 + 'a';
+            }
+            else if (CeasarCipherText[i] >= 'A' && CeasarCipherText[i] <= 'Z'){
+                CeasarPlainText += (CeasarCipherText[i] - 'A' - CeasarKey + 26) % 26 + 'A';
+            }
+            else{
+                CeasarPlainText += CeasarCipherText[i];
+            }
+        }
+
+        cout << "Ban ro: " << CeasarPlainText << endl;
+    }
+
+    else if (choice == 3){
 
         cout << "Nhap ban ma: ";
         cin.ignore();
